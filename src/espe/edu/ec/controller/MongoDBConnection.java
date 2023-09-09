@@ -5,8 +5,8 @@ import com.mongodb.client.MongoClient;
 import com.mongodb.client.MongoClients;
 
 public class MongoDBConnection {
-    private static final String USERNAME = "rfsandoval1";
-    private static final String PASSWORD = "12345";
+    private static final String USERNAME = "";
+    private static final String PASSWORD = "";
     private static final String CONNECTION_STRING = "mongodb+srv://" + USERNAME + ":" + PASSWORD +
         "@university.xy2dwnf.mongodb.net/?retryWrites=true&w=majority";
 
