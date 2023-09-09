@@ -1,0 +1,1104 @@
+[
+  {
+    "code": "D730",
+    "level": 3,
+    "description": "Hipoesplenismo",
+    "diagnostico": "Enfermedades del bazo",
+    "code_2": "D73",
+    "code_0": "D50-D89",
+    "code_1": "D70-D77"
+  },
+  {
+    "code": "D731",
+    "level": 3,
+    "description": "Hiperesplenismo",
+    "diagnostico": "Enfermedades del bazo",
+    "code_2": "D73",
+    "code_0": "D50-D89",
+    "code_1": "D70-D77"
+  },
+  {
+    "code": "D732",
+    "level": 3,
+    "description": "Esplenomegalia congestiva crónica",
+    "diagnostico": "Enfermedades del bazo",
+    "code_2": "D73",
+    "code_0": "D50-D89",
+    "code_1": "D70-D77"
+  },
+  {
+    "code": "D733",
+    "level": 3,
+    "description": "Absceso del bazo",
+    "diagnostico": "Enfermedades del bazo",
+    "code_2": "D73",
+    "code_0": "D50-D89",
+    "code_1": "D70-D77"
+  },
+  {
+    "code": "D734",
+    "level": 3,
+    "description": "Quiste del bazo",
+    "diagnostico": "Enfermedades del bazo",
+    "code_2": "D73",
+    "code_0": "D50-D89",
+    "code_1": "D70-D77"
+  },
+  {
+    "code": "D735",
+    "level": 3,
+    "description": "Infarto del bazo",
+    "diagnostico": "Enfermedades del bazo",
+    "code_2": "D73",
+    "code_0": "D50-D89",
+    "code_1": "D70-D77"
+  },
+  {
+    "code": "D720",
+    "level": 3,
+    "description": "Anomalías genéticas de los leucocitos",
+    "diagnostico": "Trastornos de los glóbulos blancos",
+    "code_2": "D72",
+    "code_0": "D50-D89",
+    "code_1": "D70-D77"
+  },
+  {
+    "code": "D721",
+    "level": 3,
+    "description": "Eosinofilia",
+    "diagnostico": "Trastornos de los glóbulos blancos",
+    "code_2": "D72",
+    "code_0": "D50-D89",
+    "code_1": "D70-D77"
+  },
+  {
+    "code": "D728",
+    "level": 3,
+    "description": "Otros trastornos especificados de los leucocitos",
+    "diagnostico": "Trastornos de los glóbulos blancos",
+    "code_2": "D72",
+    "code_0": "D50-D89",
+    "code_1": "D70-D77"
+  },
+  {
+    "code": "D729",
+    "level": 3,
+    "description": "Trastorno de los leucocitos, no especificado",
+    "diagnostico": "Trastornos de los glóbulos blancos",
+    "code_2": "D72",
+    "code_0": "D50-D89",
+    "code_1": "D70-D77"
+  },
+  {
+    "code": "C81",
+    "level": 3,
+    "description": "Enfermedad de Hodgkin",
+    "diagnostico": "Enfermedades malignas",
+    "code_2": "C81-C96",
+    "code_0": "C00-D49",
+    "code_1": "C00-C97"
+  },
+  {
+    "code": "C82",
+    "level": 3,
+    "description": "Linfoma no Hodgkin folicular [nodular]",
+    "diagnostico": "Enfermedades malignas",
+    "code_2": "C81-C96",
+    "code_0": "C00-D49",
+    "code_1": "C00-C97"
+  },
+  {
+    "code": "C83",
+    "level": 3,
+    "description": "Linfoma no Hodgkin difuso",
+    "diagnostico": "Enfermedades malignas",
+    "code_2": "C81-C96",
+    "code_0": "C00-D49",
+    "code_1": "C00-C97"
+  },
+  {
+    "code": "C76",
+    "level": 3,
+    "description": "Tumor maligno de otros sitios y de sitios mal definidos",
+    "diagnostico": "Enfermedades malignas",
+    "code_2": "C76-C80",
+    "code_0": "C00-D49",
+    "code_1": "C00-C97"
+  },
+  {
+    "code": "C77",
+    "level": 3,
+    "description": "Tumor maligno secundario y el no especificado de los ganglios linfáticos",
+    "diagnostico": "Enfermedades malignas",
+    "code_2": "C76-C80",
+    "code_0": "C00-D49",
+    "code_1": "C00-C97"
+  },
+  {
+    "code": "C00-C14",
+    "level": 3,
+    "description": "y de la faringe",
+    "diagnostico": "Enfermedades malignas",
+    "code_2": "C00-C75",
+    "code_0": "C00-D49",
+    "code_1": "C00-C97"
+  },
+  {
+    "code": "C15-C26",
+    "level": 3,
+    "description": "Tumores malignos de los órganos digestivos",
+    "diagnostico": "Enfermedades malignas",
+    "code_2": "C00-C75",
+    "code_0": "C00-D49",
+    "code_1": "C00-C97"
+  },
+  {
+    "code": "C30-C39",
+    "level": 3,
+    "description": "e intratorácicos",
+    "diagnostico": "Enfermedades malignas",
+    "code_2": "C00-C75",
+    "code_0": "C00-D49",
+    "code_1": "C00-C97"
+  },
+  {
+    "code": "C40-C41",
+    "level": 3,
+    "description": "Tumores malignos de los huesos y de los cartílagos articulares",
+    "diagnostico": "Enfermedades malignas",
+    "code_2": "C00-C75",
+    "code_0": "C00-D49",
+    "code_1": "C00-C97"
+  },
+  {
+    "code": "C43-C44",
+    "level": 3,
+    "description": "Melanoma y otros tumores malignos de la piel",
+    "diagnostico": "Enfermedades malignas",
+    "code_2": "C00-C75",
+    "code_0": "C00-D49",
+    "code_1": "C00-C97"
+  },
+  {
+    "code": "D060",
+    "level": 3,
+    "description": "Carcinoma in situ del endoc\u00e9rvix",
+    "diagnostico": "Enfermedades del sistema circulatorio",
+    "code_2": "D06",
+    "code_0": "C00-D49",
+    "code_1": "D00-D09"
+  },
+  {
+    "code": "D061",
+    "level": 3,
+    "description": "Carcinoma in situ del exocérvix",
+    "diagnostico": "Enfermedades del sistema circulatorio",
+    "code_2": "D06",
+    "code_0": "C00-D49",
+    "code_1": "D00-D09"
+  },
+  {
+    "code": "D067",
+    "level": 3,
+    "description": "Carcinoma in situ de otras partes especificadas del cuello del útero",
+    "diagnostico": "Enfermedades del sistema circulatorio",
+    "code_2": "D06",
+    "code_0": "C00-D49",
+    "code_1": "D00-D09"
+  },
+  {
+    "code": "D069",
+    "level": 3,
+    "description": "Carcinoma in situ del cuello del útero, parte no especificada",
+    "diagnostico": "Enfermedades del sistema circulatorio",
+    "code_2": "D06",
+    "code_0": "C00-D49",
+    "code_1": "D00-D09"
+  },
+  {
+    "code": "D050",
+    "level": 3,
+    "description": "Carcinoma in situ lobular",
+    "diagnostico": "Enfermedades del sistema circulatorio",
+    "code_2": "D05",
+    "code_0": "C00-D49",
+    "code_1": "D00-D09"
+  },
+  {
+    "code": "D051",
+    "level": 3,
+    "description": "Carcinoma in situ intracanalicular",
+    "diagnostico": "Enfermedades del sistema circulatorio",
+    "code_2": "D05",
+    "code_0": "C00-D49",
+    "code_1": "D00-D09"
+  },
+  {
+    "code": "D057",
+    "level": 3,
+    "description": "Otros carcinomas in situ de la mama",
+    "diagnostico": "Enfermedades del sistema circulatorio",
+    "code_2": "D05",
+    "code_0": "C00-D49",
+    "code_1": "D00-D09"
+  },
+  {
+    "code": "D059",
+    "level": 3,
+    "description": "Carcinoma in situ de la mama, parte no especificada",
+    "diagnostico": "Enfermedades del sistema circulatorio",
+    "code_2": "D05",
+    "code_0": "C00-D49",
+    "code_1": "D00-D09"
+  },
+  {
+    "code": "D040",
+    "level": 3,
+    "description": "Carcinoma in situ de la piel del labio",
+    "diagnostico": "Enfermedades del sistema circulatorio",
+    "code_2": "D04",
+    "code_0": "C00-D49",
+    "code_1": "D00-D09"
+  },
+  {
+    "code": "D041",
+    "level": 3,
+    "description": "Carcinoma in situ de la piel del párpado y de la comisura palpebral",
+    "diagnostico": "Enfermedades del sistema circulatorio",
+    "code_2": "D04",
+    "code_0": "C00-D49",
+    "code_1": "D00-D09"
+  },
+  {
+    "code": "D042",
+    "level": 3,
+    "description": "Carcinoma in situ de la piel de la oreja y del conducto auditivo externo",
+    "diagnostico": "Enfermedades del sistema respiratorio",
+    "code_2": "D04",
+    "code_0": "C00-D49",
+    "code_1": "D00-D09"
+  },
+  {
+    "code": "D043",
+    "level": 3,
+    "description": "Carcinoma in situ de la piel de otras partes y de las no especificadas de la cara",
+    "diagnostico": "Enfermedades del sistema respiratorio",
+    "code_2": "D04",
+    "code_0": "C00-D49",
+    "code_1": "D00-D09"
+  },
+  {
+    "code": "D044",
+    "level": 3,
+    "description": "Carcinoma in situ de la piel del cuero cabelludo y cuello",
+    "diagnostico": "Enfermedades del sistema respiratorio",
+    "code_2": "D04",
+    "code_0": "C00-D49",
+    "code_1": "D00-D09"
+  },
+  {
+    "code": "D045",
+    "level": 3,
+    "description": "Carcinoma in situ de la piel del tronco",
+    "diagnostico": "Enfermedades del sistema respiratorio",
+    "code_2": "D04",
+    "code_0": "C00-D49",
+    "code_1": "D00-D09"
+  },
+  {
+    "code": "D030",
+    "level": 3,
+    "description": "Melanoma in situ del labio",
+    "diagnostico": "Enfermedades del sistema respiratorio",
+    "code_2": "D03",
+    "code_0": "C00-D49",
+    "code_1": "D00-D09"
+  },
+  {
+    "code": "D031",
+    "level": 3,
+    "description": "Melanoma in situ del párpado y de la comisura palpebral",
+    "diagnostico": "Enfermedades del sistema respiratorio",
+    "code_2": "D03",
+    "code_0": "C00-D49",
+    "code_1": "D00-D09"
+  },
+  {
+    "code": "D032",
+    "level": 3,
+    "description": "Melanoma in situ de la oreja y del conducto auditivo externo",
+    "diagnostico": "Enfermedades del sistema respiratorio",
+    "code_2": "D03",
+    "code_0": "C00-D49",
+    "code_1": "D00-D09"
+  },
+  {
+    "code": "D033",
+    "level": 3,
+    "description": "Melanoma in situ de otras partes y de las no especificadas de la cara",
+    "diagnostico": "Enfermedades del sistema respiratorio",
+    "code_2": "D03",
+    "code_0": "C00-D49",
+    "code_1": "D00-D09"
+  },
+  {
+    "code": "D034",
+    "level": 3,
+    "description": "Melanoma in situ del cuero cabelludo y del cuello",
+    "diagnostico": "Enfermedades del sistema respiratorio",
+    "code_2": "D03",
+    "code_0": "C00-D49",
+    "code_1": "D00-D09"
+  },
+  {
+    "code": "D035",
+    "level": 3,
+    "description": "Melanoma in situ del tronco",
+    "diagnostico": "Enfermedades del sistema respiratorio",
+    "code_2": "D03",
+    "code_0": "C00-D49",
+    "code_1": "D00-D09"
+  },
+  {
+    "code": "D036",
+    "level": 3,
+    "description": "Melanoma in situ del miembro superior, incluido el hombro",
+    "diagnostico": "Enfermedades del sistema respiratorio",
+    "code_2": "D03",
+    "code_0": "C00-D49",
+    "code_1": "D00-D09"
+  },
+  {
+    "code": "D037",
+    "level": 3,
+    "description": "Melanoma in situ del miembro inferior, incluida la cadera",
+    "diagnostico": "Enfermedades del sistema respiratorio",
+    "code_2": "D03",
+    "code_0": "C00-D49",
+    "code_1": "D00-D09"
+  },
+  {
+    "code": "D038",
+    "level": 3,
+    "description": "Melanoma in situ de otros sitios",
+    "diagnostico": "Enfermedades del sistema respiratorio",
+    "code_2": "D03",
+    "code_0": "C00-D49",
+    "code_1": "D00-D09"
+  },
+  {
+    "code": "D020",
+    "level": 3,
+    "description": "Carcinoma in situ de la laringe",
+    "diagnostico": "Enfermedades del sistema respiratorio",
+    "code_2": "D02",
+    "code_0": "C00-D49",
+    "code_1": "D00-D09"
+  },
+  {
+    "code": "D021",
+    "level": 3,
+    "description": "Carcinoma in situ de la tráquea",
+    "diagnostico": "Enfermedades del sistema respiratorio",
+    "code_2": "D02",
+    "code_0": "C00-D49",
+    "code_1": "D00-D09"
+  },
+  {
+    "code": "D022",
+    "level": 3,
+    "description": "Carcinoma in situ del bronquio y del pulmón",
+    "diagnostico": "Enfermedades del sistema respiratorio",
+    "code_2": "D02",
+    "code_0": "C00-D49",
+    "code_1": "D00-D09"
+  },
+  {
+    "code": "D023",
+    "level": 3,
+    "description": "Carcinoma in situ de otras partes del sistema respiratorio",
+    "diagnostico": "Enfermedades del sistema respiratorio",
+    "code_2": "D02",
+    "code_0": "C00-D49",
+    "code_1": "D00-D09"
+  },
+  {
+    "code": "D024",
+    "level": 3,
+    "description": "Carcinoma in situ de órganos respiratorios no especificados",
+    "diagnostico": "Enfermedades del sistema respiratorio",
+    "code_2": "D02",
+    "code_0": "C00-D49",
+    "code_1": "D00-D09"
+  },
+  {
+    "code": "D010",
+    "level": 3,
+    "description": "Carcinoma in situ del colon",
+    "diagnostico": "Enfermedades del sistema digestivo",
+    "code_2": "D01",
+    "code_0": "C00-D49",
+    "code_1": "D00-D09"
+  },
+  {
+    "code": "D011",
+    "level": 3,
+    "description": "Carcinoma in situ de la unión rectosigmoidea",
+    "diagnostico": "Enfermedades del sistema digestivo",
+    "code_2": "D01",
+    "code_0": "C00-D49",
+    "code_1": "D00-D09"
+  },
+  {
+    "code": "D012",
+    "level": 3,
+    "description": "Carcinoma in situ del recto",
+    "diagnostico": "Enfermedades del sistema digestivo",
+    "code_2": "D01",
+    "code_0": "C00-D49",
+    "code_1": "D00-D09"
+  },
+  {
+    "code": "D013",
+    "level": 3,
+    "description": "Carcinoma in situ del ano y del conducto anal",
+    "diagnostico": "Enfermedades del sistema digestivo",
+    "code_2": "D01",
+    "code_0": "C00-D49",
+    "code_1": "D00-D09"
+  },
+  {
+    "code": "D014",
+    "level": 3,
+    "description": "Carcinoma in situ de otras partes y de las no especificadas del intestino",
+    "diagnostico": "Enfermedades del sistema digestivo",
+    "code_2": "D01",
+    "code_0": "C00-D49",
+    "code_1": "D00-D09"
+  },
+  {
+    "code": "D000",
+    "level": 3,
+    "description": "Carcinoma in situ del labio, de la cavidad bucal y de la faringe",
+    "diagnostico": "Enfermedades del sistema digestivo",
+    "code_2": "D00",
+    "code_0": "C00-D49",
+    "code_1": "D00-D09"
+  },
+  {
+    "code": "D001",
+    "level": 3,
+    "description": "Carcinoma in situ del esófago",
+    "diagnostico": "Enfermedades del sistema digestivo",
+    "code_2": "D00",
+    "code_0": "C00-D49",
+    "code_1": "D00-D09"
+  },
+  {
+    "code": "D002",
+    "level": 3,
+    "description": "Carcinoma in situ del estómago",
+    "diagnostico": "Enfermedades del sistema digestivo",
+    "code_2": "D00",
+    "code_0": "C00-D49",
+    "code_1": "D00-D09"
+  },
+  {
+    "code": "D120",
+    "level": 3,
+    "description": "Tumor benigno del ciego",
+    "diagnostico": "Enfermedades del sistema digestivo",
+    "code_2": "D12",
+    "code_0": "C00-D49",
+    "code_1": "D10-D36"
+  },
+  {
+    "code": "D121",
+    "level": 3,
+    "description": "Tumor benigno del apéndice",
+    "diagnostico": "Enfermedades del sistema digestivo",
+    "code_2": "D12",
+    "code_0": "C00-D49",
+    "code_1": "D10-D36"
+  },
+  {
+    "code": "D122",
+    "level": 3,
+    "description": "Tumor benigno del colon ascendente",
+    "diagnostico": "Enfermedades del sistema digestivo",
+    "code_2": "D12",
+    "code_0": "C00-D49",
+    "code_1": "D10-D36"
+  },
+  {
+    "code": "D123",
+    "level": 3,
+    "description": "Tumor benigno del colon transverso",
+    "diagnostico": "Enfermedades del sistema digestivo",
+    "code_2": "D12",
+    "code_0": "C00-D49",
+    "code_1": "D10-D36"
+  },
+  {
+    "code": "D124",
+    "level": 3,
+    "description": "Tumor benigno del colon descendente",
+    "diagnostico": "Enfermedades del sistema digestivo",
+    "code_2": "D12",
+    "code_0": "C00-D49",
+    "code_1": "D10-D36"
+  },
+  {
+    "code": "D125",
+    "level": 3,
+    "description": "Tumor benigno del colon sigmoide",
+    "diagnostico": "Enfermedades del sistema digestivo",
+    "code_2": "D12",
+    "code_0": "C00-D49",
+    "code_1": "D10-D36"
+  },
+  {
+    "code": "D126",
+    "level": 3,
+    "description": "Tumor benigno del colon, parte no especificada",
+    "diagnostico": "Enfermedades del sistema digestivo",
+    "code_2": "D12",
+    "code_0": "C00-D49",
+    "code_1": "D10-D36"
+  },
+  {
+    "code": "D127",
+    "level": 3,
+    "description": "Tumor benigno de la unión rectosigmoidea",
+    "diagnostico": "Enfermedades del sistema digestivo",
+    "code_2": "D12",
+    "code_0": "C00-D49",
+    "code_1": "D10-D36"
+  },
+  {
+    "code": "D110",
+    "level": 3,
+    "description": "Tumor benigno de la glándula parótida",
+    "diagnostico": "Enfermedades del sistema digestivo",
+    "code_2": "D11",
+    "code_0": "C00-D49",
+    "code_1": "D10-D36"
+  },
+  {
+    "code": "D117",
+    "level": 3,
+    "description": "Tumor benigno de otras glándulas salivales mayores especificadas",
+    "diagnostico": "Enfermedades del sistema digestivo",
+    "code_2": "D11",
+    "code_0": "C00-D49",
+    "code_1": "D10-D36"
+  },
+  {
+    "code": "D119",
+    "level": 3,
+    "description": "Tumor benigno de la glándula salival mayor, sin otra especificación",
+    "diagnostico": "Enfermedades del sistema digestivo",
+    "code_2": "D11",
+    "code_0": "C00-D49",
+    "code_1": "D10-D36"
+  },
+  {
+    "code": "D100",
+    "level": 3,
+    "description": "Tumor benigno del labio",
+    "diagnostico": "Enfermedades del sistema digestivo",
+    "code_2": "D10",
+    "code_0": "C00-D49",
+    "code_1": "D10-D36"
+  },
+  {
+    "code": "D101",
+    "level": 3,
+    "description": "Tumor benigno de la lengua",
+    "diagnostico": "Enfermedades del sistema digestivo",
+    "code_2": "D10",
+    "code_0": "C00-D49",
+    "code_1": "D10-D36"
+  },
+  {
+    "code": "D102",
+    "level": 3,
+    "description": "Tumor benigno del piso de la boca",
+    "diagnostico": "Enfermedades del sistema digestivo",
+    "code_2": "D10",
+    "code_0": "C00-D49",
+    "code_1": "D10-D36"
+  },
+  {
+    "code": "D103",
+    "level": 3,
+    "description": "Tumor benigno de otras partes y de las no especificadas de la boca",
+    "diagnostico": "Enfermedades del sistema digestivo",
+    "code_2": "D10",
+    "code_0": "C00-D49",
+    "code_1": "D10-D36"
+  },
+  {
+    "code": "D104",
+    "level": 3,
+    "description": "Tumor benigno de la amígdala",
+    "diagnostico": "Enfermedades del sistema digestivo",
+    "code_2": "D10",
+    "code_0": "C00-D49",
+    "code_1": "D10-D36"
+  },
+  {
+    "code": "D105",
+    "level": 3,
+    "description": "Tumor benigno de otras partes de la orofaringe",
+    "diagnostico": "Enfermedades del sistema digestivo",
+    "code_2": "D10",
+    "code_0": "C00-D49",
+    "code_1": "D10-D36"
+  },
+  {
+    "code": "D106",
+    "level": 3,
+    "description": "Tumor benigno de la nasofaringe",
+    "diagnostico": "Enfermedades del sistema digestivo",
+    "code_2": "D10",
+    "code_0": "C00-D49",
+    "code_1": "D10-D36"
+  },
+  {
+    "code": "D107",
+    "level": 3,
+    "description": "Tumor benigno de la hipofaringe",
+    "diagnostico": "Enfermedades del sistema digestivo",
+    "code_2": "D10",
+    "code_0": "C00-D49",
+    "code_1": "D10-D36"
+  },
+  {
+    "code": "D109",
+    "level": 3,
+    "description": "Tumor benigno de la faringe, parte no especificada",
+    "diagnostico": "Enfermedades del sistema digestivo",
+    "code_2": "D10",
+    "code_0": "C00-D49",
+    "code_1": "D10-D36"
+  },
+  {
+    "code": "D420",
+    "level": 3,
+    "description": "Tumor de comportamiento incierto o desconocido de las meninges cerebrales",
+    "diagnostico": "Tumores de comportamiento incierto o desconocido",
+    "code_2": "D42",
+    "code_0": "C00-D49",
+    "code_1": "D37-D48"
+  },
+  {
+    "code": "D421",
+    "level": 3,
+    "description": "Tumor de comportamiento incierto o desconocido de las meninges raquídeas",
+    "diagnostico": "Tumores de comportamiento incierto o desconocido",
+    "code_2": "D42",
+    "code_0": "C00-D49",
+    "code_1": "D37-D48"
+  },
+  {
+    "code": "D429",
+    "level": 3,
+    "description": "Tumor de comportamiento incierto o desconocido de las meninges, parte no especificada",
+    "diagnostico": "Tumores de comportamiento incierto o desconocido",
+    "code_2": "D42",
+    "code_0": "C00-D49",
+    "code_1": "D37-D48"
+  },
+  {
+    "code": "D410",
+    "level": 3,
+    "description": "Tumor de comportamiento incierto o desconocido del riñón",
+    "diagnostico": "Tumores de comportamiento incierto o desconocido",
+    "code_2": "D41",
+    "code_0": "C00-D49",
+    "code_1": "D37-D48"
+  },
+  {
+    "code": "D411",
+    "level": 3,
+    "description": "Tumor de comportamiento incierto o desconocido de la pelvis renal",
+    "diagnostico": "Tumores de comportamiento incierto o desconocido",
+    "code_2": "D41",
+    "code_0": "C00-D49",
+    "code_1": "D37-D48"
+  },
+  {
+    "code": "D412",
+    "level": 3,
+    "description": "Tumor de comportamiento incierto o desconocido del uréter",
+    "diagnostico": "Tumores de comportamiento incierto o desconocido",
+    "code_2": "D41",
+    "code_0": "C00-D49",
+    "code_1": "D37-D48"
+  },
+  {
+    "code": "D413",
+    "level": 3,
+    "description": "Tumor de comportamiento incierto o desconocido de la uretra",
+    "diagnostico": "Tumores de comportamiento incierto o desconocido",
+    "code_2": "D41",
+    "code_0": "C00-D49",
+    "code_1": "D37-D48"
+  },
+  {
+    "code": "D414",
+    "level": 3,
+    "description": "Tumor de comportamiento incierto o desconocido de la vejiga",
+    "diagnostico": "Tumores de comportamiento incierto o desconocido",
+    "code_2": "D41",
+    "code_0": "C00-D49",
+    "code_1": "D37-D48"
+  },
+  {
+    "code": "D417",
+    "level": 3,
+    "description": "Tumor de comportamiento incierto o desconocido de otros órganos urinarios",
+    "diagnostico": "Tumores de comportamiento incierto o desconocido",
+    "code_2": "D41",
+    "code_0": "C00-D49",
+    "code_1": "D37-D48"
+  },
+  {
+    "code": "D419",
+    "level": 3,
+    "description": "Tumor de comportamiento incierto o desconocido de órgano urinario no especificado",
+    "diagnostico": "Tumores de comportamiento incierto o desconocido",
+    "code_2": "D41",
+    "code_0": "C00-D49",
+    "code_1": "D37-D48"
+  },
+  {
+    "code": "D400",
+    "level": 3,
+    "description": "Tumor de comportamiento incierto o desconocido de la próstata",
+    "diagnostico": "Tumores de comportamiento incierto o desconocido de órganos genitales masculinos",
+    "code_2": "D40",
+    "code_0": "C00-D49",
+    "code_1": "D37-D48"
+  },
+  {
+    "code": "D401",
+    "level": 3,
+    "description": "Tumor de comportamiento incierto o desconocido del testículo",
+    "diagnostico": "Tumores de comportamiento incierto o desconocido de órganos genitales masculinos",
+    "code_2": "D40",
+    "code_0": "C00-D49",
+    "code_1": "D37-D48"
+  },
+  {
+    "code": "D407",
+    "level": 3,
+    "description": "Tumor de comportamiento incierto o desconocido de otros órganos genitales masculinos",
+    "diagnostico": "Tumores de comportamiento incierto o desconocido de órganos genitales masculinos",
+    "code_2": "D40",
+    "code_0": "C00-D49",
+    "code_1": "D37-D48"
+  },
+  {
+    "code": "D409",
+    "level": 3,
+    "description": "Tumor de comportamiento incierto o desconocido de órgano genital masculino no especificado",
+    "diagnostico": "Tumores de comportamiento incierto o desconocido de órganos genitales masculinos",
+    "code_2": "D40",
+    "code_0": "C00-D49",
+    "code_1": "D37-D48"
+  },
+  {
+    "code": "D390",
+    "level": 3,
+    "description": "Tumor de comportamiento incierto o desconocido del útero",
+    "diagnostico": "Tumores de comportamiento incierto o desconocido de órganos genitales femeninos",
+    "code_2": "D39",
+    "code_0": "C00-D49",
+    "code_1": "D37-D48"
+  },
+  {
+    "code": "D391",
+    "level": 3,
+    "description": "Tumor de comportamiento incierto o desconocido del ovario",
+    "diagnostico": "Tumores de comportamiento incierto o desconocido de órganos genitales femeninos",
+    "code_2": "D39",
+    "code_0": "C00-D49",
+    "code_1": "D37-D48"
+  },
+  {
+    "code": "D392",
+    "level": 3,
+    "description": "Tumor de comportamiento incierto o desconocido de la placenta",
+    "diagnostico": "Tumores de comportamiento incierto o desconocido de órganos genitales femeninos",
+    "code_2": "D39",
+    "code_0": "C00-D49",
+    "code_1": "D37-D48"
+  },
+  {
+    "code": "D397",
+    "level": 3,
+    "description": "Tumor de comportamiento incierto o desconocido de otros órganos genitales femeninos",
+    "diagnostico": "Tumores de comportamiento incierto o desconocido de órganos genitales femeninos",
+    "code_2": "D39",
+    "code_0": "C00-D49",
+    "code_1": "D37-D48"
+  },
+  {
+    "code": "D399",
+    "level": 3,
+    "description": "Tumor de comportamiento incierto o desconocido de órgano genital femenino no especificado",
+    "diagnostico": "Tumores de comportamiento incierto o desconocido de órganos genitales femeninos",
+    "code_2": "D39",
+    "code_0": "C00-D49",
+    "code_1": "D37-D48"
+  },
+  {
+    "code": "D380",
+    "level": 3,
+    "description": "Tumor de comportamiento incierto o desconocido de laringe",
+    "diagnostico": "Tumores de comportamiento incierto o desconocido del sistema respiratorio y mediastino",
+    "code_2": "D38",
+    "code_0": "C00-D49",
+    "code_1": "D37-D48"
+  },
+  {
+    "code": "D381",
+    "level": 3,
+    "description": "Tumor de comportamiento incierto o desconocido de la tráquea, de los bronquios y del pulmón",
+    "diagnostico": "Tumores de comportamiento incierto o desconocido del sistema respiratorio y mediastino",
+    "code_2": "D38",
+    "code_0": "C00-D49",
+    "code_1": "D37-D48"
+  },
+  {
+    "code": "D382",
+    "level": 3,
+    "description": "Tumor de comportamiento incierto o desconocido de la pleura",
+    "diagnostico": "Tumores de comportamiento incierto o desconocido del sistema respiratorio y mediastino",
+    "code_2": "D38",
+    "code_0": "C00-D49",
+    "code_1": "D37-D48"
+  },
+  {
+    "code": "D370",
+    "level": 3,
+    "description": "Tumor de comportamiento incierto o desconocido del labio, de la cavidad bucal y de la faringe",
+    "diagnostico": "Tumores de comportamiento incierto o desconocido de los órganos digestivos",
+    "code_2": "D37",
+    "code_0": "C00-D49",
+    "code_1": "D37-D48"
+  },
+  {
+    "code": "D371",
+    "level": 3,
+    "description": "Tumor de comportamiento incierto o desconocido del estómago",
+    "diagnostico": "Tumores de comportamiento incierto o desconocido de los órganos digestivos",
+    "code_2": "D37",
+    "code_0": "C00-D49",
+    "code_1": "D37-D48"
+  },
+  {
+    "code": "D372",
+    "level": 3,
+    "description": "Tumor de comportamiento incierto o desconocido del intestino delgado",
+    "diagnostico": "Tumores de comportamiento incierto o desconocido de los órganos digestivos",
+    "code_2": "D37",
+    "code_0": "C00-D49",
+    "code_1": "D37-D48"
+  },
+  {
+    "code": "D373",
+    "level": 3,
+    "description": "Tumor de comportamiento incierto o desconocido del apéndice",
+    "diagnostico": "Tumores de comportamiento incierto o desconocido de los órganos digestivos",
+    "code_2": "D37",
+    "code_0": "C00-D49",
+    "code_1": "D37-D48"
+  },
+  {
+    "code": "D374",
+    "level": 3,
+    "description": "Tumor de comportamiento incierto o desconocido del colon",
+    "diagnostico": "Tumores de comportamiento incierto o desconocido de los órganos digestivos",
+    "code_2": "D37",
+    "code_0": "C00-D49",
+    "code_1": "D37-D48"
+  },
+  {
+    "code": "D375",
+    "level": 3,
+    "description": "Tumor de comportamiento incierto o desconocido del recto",
+    "diagnostico": "Tumores de comportamiento incierto o desconocido de los órganos digestivos",
+    "code_2": "D37",
+    "code_0": "C00-D49",
+    "code_1": "D37-D48"
+  },
+  {
+    "code": "D376",
+    "level": 3,
+    "description": "Tumor de comportamiento incierto o desconocido del hígado, de la vesícula biliar y del conducto biliar",
+    "diagnostico": "Tumores de comportamiento incierto o desconocido de los órganos digestivos",
+    "code_2": "D37",
+    "code_0": "C00-D49",
+    "code_1": "D37-D48"
+  },
+  {
+    "code": "D377",
+    "level": 3,
+    "description": "Tumor de comportamiento incierto o desconocido de otros órganos digestivos especificados",
+    "diagnostico": "Tumores de comportamiento incierto o desconocido de los órganos digestivos",
+    "code_2": "D37",
+    "code_0": "C00-D49",
+    "code_1": "D37-D48"
+  },
+  {
+    "code": "G320",
+    "level": 3,
+    "description": "Degeneración combinada subaguda de la médula espinal en enfermedades clasificadas en otra parte",
+    "diagnostico": "Enfermedades del sistema nervioso",
+    "code_2": "G32",
+    "code_0": "G00-G99",
+    "code_1": "G30-G32"
+  },
+  {
+    "code": "G328",
+    "level": 3,
+    "description": "Otros trastornos degenerativos especificados del sistema nervioso en enfermedades clasificadas en otra parte",
+    "diagnostico": "Enfermedades del sistema nervioso",
+    "code_2": "G32",
+    "code_0": "G00-G99",
+    "code_1": "G30-G32"
+  },
+  {
+    "code": "G310",
+    "level": 3,
+    "description": "Atrofia cerebral circunscrita",
+    "diagnostico": "Enfermedades del sistema nervioso",
+    "code_2": "G31",
+    "code_0": "G00-G99",
+    "code_1": "G30-G32"
+  },
+  {
+    "code": "G311",
+    "level": 3,
+    "description": "Degeneración cerebral senil no clasificada en otra parte",
+    "diagnostico": "Enfermedades del sistema nervioso",
+    "code_2": "G31",
+    "code_0": "G00-G99",
+    "code_1": "G30-G32"
+  },
+  {
+    "code": "G312",
+    "level": 3,
+    "description": "Degeneración del sistema nervioso debida al alcohol",
+    "diagnostico": "Enfermedades del sistema nervioso",
+    "code_2": "G31",
+    "code_0": "G00-G99",
+    "code_1": "G30-G32"
+  },
+  {
+    "code": "G318",
+    "level": 3,
+    "description": "Otras enfermedades degenerativas especificadas del sistema nervioso",
+    "diagnostico": "Enfermedades del sistema nervioso",
+    "code_2": "G31",
+    "code_0": "G00-G99",
+    "code_1": "G30-G32"
+  },
+  {
+    "code": "G319",
+    "level": 3,
+    "description": "Degeneración del sistema nervioso, no especificada",
+    "diagnostico": "Enfermedades del sistema nervioso",
+    "code_2": "G31",
+    "code_0": "G00-G99",
+    "code_1": "G30-G32"
+  },
+  {
+    "code": "G300",
+    "level": 3,
+    "description": "Enfermedad de Alzheimer de comienzo temprano",
+    "diagnostico": "Enfermedades del sistema nervioso",
+    "code_2": "G30",
+    "code_0": "G00-G99",
+    "code_1": "G30-G32"
+  },
+  {
+    "code": "G301",
+    "level": 3,
+    "description": "Enfermedad de Alzheimer de comienzo tardío",
+    "diagnostico": "Enfermedades del sistema nervioso",
+    "code_2": "G30",
+    "code_0": "G00-G99",
+    "code_1": "G30-G32"
+  },
+  {
+    "code": "G308",
+    "level": 3,
+    "description": "Otros tipos de enfermedad de Alzheimer",
+    "diagnostico": "Enfermedades del sistema nervioso",
+    "code_2": "G30",
+    "code_0": "G00-G99",
+    "code_1": "G30-G32"
+  },
+  {
+    "code": "G309",
+    "level": 3,
+    "description": "Enfermedad de Alzheimer, no especificada",
+    "diagnostico": "Enfermedades del sistema nervioso",
+    "code_2": "G30",
+    "code_0": "G00-G99",
+    "code_1": "G30-G32"
+  },
+  {
+    "code": "M815",
+    "level": 4,
+    "description": "Osteoporosis idiopática, sin fractura patológica",
+    "diagnostico": "Trastornos del sistema osteomuscular y del tejido conectivo",
+    "code_3": "M81",
+    "code_0": "M00-M99",
+    "code_1": "M80-M94",
+    "code_2": "M80-M85"
+  },
+  {
+    "code": "M816",
+    "level": 4,
+    "description": "Osteoporosis localizada [Lequesne], sin fractura patológica",
+    "diagnostico": "Trastornos del sistema osteomuscular y del tejido conectivo",
+    "code_3": "M81",
+    "code_0": "M00-M99",
+    "code_1": "M80-M94",
+    "code_2": "M80-M85"
+  },
+  {
+    "code": "M818",
+    "level": 4,
+    "description": "Otras osteoporosis, sin fractura patológica",
+    "diagnostico": "Trastornos del sistema osteomuscular y del tejido conectivo",
+    "code_3": "M81",
+    "code_0": "M00-M99",
+    "code_1": "M80-M94",
+    "code_2": "M80-M85"
+  },
+  {
+    "code": "M819",
+    "level": 4,
+    "description": "Osteoporosis no especificada, sin fractura patológica",
+    "diagnostico": "Trastornos del sistema osteomuscular y del tejido conectivo",
+    "code_3": "M81",
+    "code_0": "M00-M99",
+    "code_1": "M80-M94",
+    "code_2": "M80-M85"
+  },
+  {
+    "code": "G370",
+    "level": 3,
+    "description": "Esclerosis difusa",
+    "diagnostico": "Enfermedades del sistema nervioso",
+    "code_2": "G37",
+    "code_0": "G00-G99",
+    "code_1": "G35-G37"
+  }
+]

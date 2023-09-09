@@ -1,0 +1,67 @@
+[
+  {
+    "fecha_atencion": "dd/mm/yyyy",
+    "datos_paciente": [
+      {
+        "tipo_identificacion": "",
+        "identificacion": "",
+        "fecha_nacimiento": "",
+        "primer_nombre": "",
+        "segundo_nombre": "",
+        "primer_apellido": "",
+        "segundo_apellido": "",
+        "sexo": "",
+        "orientacion_sexual": "",
+        "identidad_genero": "",
+        "nacionalidad": "",
+        "identificacion_etnica": ""
+      }
+    ],
+    "lugar_residencia": [
+      {
+        "provincia": "",
+        "canton": "",
+        "parroquia": "",
+        "telefono_paciente": "",
+        "telefono_familiar": "",
+        "direccion_domicilio": ""
+      }
+    ],
+    "datos_representante": [
+      {
+        "tipo_identificacion_representante": "",
+        "identificacion_representante": ""
+      }
+    ],
+    "antecedentes": [
+      {
+        "parentesco": "",
+        "apellido": "",
+        "nombre": "",
+        "descripcion": ""
+      }
+    ],
+    "antropometicos": [
+      {
+        "peso": "",
+        "talla": "",
+        "imc": ""
+      }
+    ],
+    "diagnostico": [
+      {
+        "cie": "",
+        "descripcion_cue": "",
+        "tipo_diagnostico": "",
+        "tipo_atencion": "",
+        "condicion_diagnostico": ""
+      }
+    ],
+    "perscripcion": [
+      {
+        "indicaciones": "",
+        "tratamiento": ""
+      }
+    ]
+  }
+]
