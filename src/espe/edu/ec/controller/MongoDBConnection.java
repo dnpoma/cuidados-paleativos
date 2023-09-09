@@ -8,7 +8,7 @@ public class MongoDBConnection {
     private static final String USERNAME = "";
     private static final String PASSWORD = "";
     private static final String CONNECTION_STRING = "mongodb+srv://" + USERNAME + ":" + PASSWORD +
-        "@university.xy2dwnf.mongodb.net/?retryWrites=true&w=majority";
+        "";
 
     private static MongoClient mongoClient;
 
